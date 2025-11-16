@@ -13,5 +13,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisislauralima&langs_count=8&theme=gruvbox)](https://github.com/Thisislauralima/github-readme-stats)
 
-### Vamos nos conectar? 👇
+### Reach me out! Here's my LinkedIn profile 👇
 <a href="https://www.linkedin.com/in/laura-lima-santos/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>

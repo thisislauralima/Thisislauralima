@@ -1,5 +1,5 @@
-# Olá! Me chamo Laura Lima! 👋
-## Algumas tecnologias que uso no dia a dia: 
+# Hi! I'm Laura! 👋
+## These are the main stacks I'm used to work with: 
  <div style="display: inline_block"><br>
   
   <img height="30" width="95" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
